@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>
+🔭 I’m currently working on Flutter<br>🌱 I’m currently learning swift<br>💬 Ask me about https://www.instagram.com/salihugurlu_/<br>
 
 
 ## 🌐 Socials:

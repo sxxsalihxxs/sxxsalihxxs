@@ -1,4 +1,9 @@
 # 💫 About Me:
+Hi,<br>Responsible, hardworking, and detail-minded. I can handle working under pressure and communicate and
+collaborate seamlessly in a team. My passion for software development stems from my curious and persistent
+nature, constantly learning through all resources.
+Proficient with; HTML, CSS, Flutter, Python, C#.
+I seek a position to front end developer, and build career in full stack developer.<br>
 🔭 I’m currently working on Flutter<br>🌱 I’m currently learning swift<br>💬 ask me a question: https://www.instagram.com/salihugurlu_/<br>
 
 

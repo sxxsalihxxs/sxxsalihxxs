@@ -1,5 +1,9 @@
 # 💫 About Me:
-Responsible, hardworking, and detail-oriented, I excel in high-pressure environments and communicate and collaborate effectively within a team. My passion for SAP ABAP development is fueled by my curious and persistent nature, driving me to continuously learn from a variety of resources. I thrive in Agile working environments, adapting quickly to changes and contributing to iterative development processes.
+Motivated and detail-oriented cybersecurity enthusiast focusing on Offensive Security. Built a solid
+foundation in vulnerability assessment, attack techniques, and hands-on lab environments. Strong
+team player with the ability to perform well under pressure and a mindset that values feedback and
+continuous improvement. Eager to grow within an offensive security team and contribute effectively to
+real-world assessments.
 
 
 

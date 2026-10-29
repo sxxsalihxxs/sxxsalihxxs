@@ -92,7 +92,7 @@
 
 ### ✍️ Write-ups & Articles
 
-eJPT lab çözümlerim ve siber güvenlik yazılarım Medium'da:
+My eJPT lab walkthroughs and cybersecurity articles on Medium:
 
 👉 **[medium.com/@salihugurlu2001](https://medium.com/@salihugurlu2001)**
 
@@ -101,12 +101,12 @@ eJPT lab çözümlerim ve siber güvenlik yazılarım Medium'da:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sxxsalihxxs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxsalihxxs&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sxxsalihxxs&theme=radical"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sxxsalihxxs&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxxsalihxxs&theme=redical&hide_border=true" width="95%"/>
+  <img src="https://streak-stats.demolab.com/?user=sxxsalihxxs&theme=radical&hide_border=true" height="170"/>
 </div>
 
 ---

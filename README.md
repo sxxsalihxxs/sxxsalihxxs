@@ -1,23 +1,120 @@
-# 💫 About Me:
-Motivated and detail-oriented cybersecurity enthusiast focusing on Offensive Security. Built a solid
-foundation in vulnerability assessment, attack techniques, and hands-on lab environments. Strong
-team player with the ability to perform well under pressure and a mindset that values feedback and
-continuous improvement. Eager to grow within an offensive security team and contribute effectively to
-real-world assessments.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=200&section=header&text=Salih%20Ugurlu&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Offensive%20Security%20%7C%20Penetration%20Tester%20%7C%20Red%20Team&descAlignY=58&descSize=16" width="100%"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF0033&center=true&vCenter=true&width=600&lines=%24+whoami;Offensive+Security+Enthusiast;Penetration+Tester+%7C+CTF+Player;Breaking+things+to+make+them+safer" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/salihugurlu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salihugrlu) 
+<p>
+  <a href="https://www.linkedin.com/in/salihugrlu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/users/1813417"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+  <a href="https://tryhackme.com/p/salihugurlu"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://medium.com/@salihugurlu2001"><img src="https://img.shields.io/badge/Write--ups-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+</p>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sxxsalihxxs&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sxxsalihxxs&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sxxsalihxxs&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sxxsalihxxs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `> cat about_me.txt`
+
+```bash
+┌──(salih㉿kali)-[~]
+└─$ cat profile.json
+{
+  "role"      : "Offensive Security / Penetration Tester",
+  "focus"     : ["Web App Pentest", "Network Pentest", "Active Directory"],
+  "learning"  : ["Exploit Development", "Red Teaming"],
+  "playing"   : ["HackTheBox", "TryHackMe", "CTFs"],
+  "motto"     : "Think like an attacker, act like a defender."
+}
+```
+
+### 🎯 Focus Areas
+
+- 🌐 **Web Application Security** — OWASP Top 10, API testing, auth/session flaws
+- 🖧 **Network & Infrastructure Pentesting** — enumeration, exploitation, privilege escalation
+- 🏰 **Active Directory Attacks** — Kerberoasting, AS-REP roasting, lateral movement, BloodHound
+- 🔴 **Red Teaming & Adversary Emulation** — C2 frameworks, MITRE ATT&CK
+- 🛠️ **Tool Development** — custom scripts for recon and automation
+
+---
+
+### 🧰 Arsenal
+
+**Offensive Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-333333?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-8B0000?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Languages & Scripting**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### 📜 Certifications
+
+| Certification | Status |
+|---|---|
+| [eJPT – INE Junior Penetration Tester](https://certs.ine.com/a8ca4ebe-6a04-426d-a9a5-b78941e637ff#acc.aDREueCm) | ✅ Completed |
+| [Ethical Hacker – Cisco](https://www.credly.com/badges/f93cb266-9894-4128-b294-157b007315b7/public_url) | ✅ Completed |
+| [Networking Basics – Cisco](https://www.credly.com/badges/4e8d4a8e-dbe7-4ab8-ace9-5bdf3f1461f1/public_url) | ✅ Completed |
+| [Siber Güvenlik Okulu – Coderspace](https://coderspace.io/sertifikalar/9869deee-fffc-47cc-9f0f-522e13e260a7) | ✅ Completed (Jan 2026) |
+
+---
+
+### 🏴‍☠️ Platforms
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/users/1813417"><img src="https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+<a href="https://tryhackme.com/p/salihugurlu"><img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+
+</div>
+
+---
+
+### ✍️ Write-ups & Articles
+
+eJPT lab çözümlerim ve siber güvenlik yazılarım Medium'da:
+
+👉 **[medium.com/@salihugurlu2001](https://medium.com/@salihugurlu2001)**
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sxxsalihxxs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sxxsalihxxs&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sxxsalihxxs&theme=redical&hide_border=true" width="95%"/>
+</div>
+
+---
+
+<div align="center">
+
+> ⚠️ *All tools and content in my repositories are for **educational purposes** and **authorized security testing only**.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=100&section=footer" width="100%"/>
+
+</div>
